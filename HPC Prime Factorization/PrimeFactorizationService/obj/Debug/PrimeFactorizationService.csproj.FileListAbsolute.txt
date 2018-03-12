@@ -1,0 +1,6 @@
+E:\Prashant\My projects\HPC\SDK\HPC2012.SampleCode\HPC Pack 2012 SOA Tutorial Interactive Mode\C#\PrimeFactorizationService\bin\Debug\PrimeFactorizationService.dll.config
+E:\Prashant\My projects\HPC\SDK\HPC2012.SampleCode\HPC Pack 2012 SOA Tutorial Interactive Mode\C#\PrimeFactorizationService\bin\Debug\PrimeFactorizationService.dll
+E:\Prashant\My projects\HPC\SDK\HPC2012.SampleCode\HPC Pack 2012 SOA Tutorial Interactive Mode\C#\PrimeFactorizationService\bin\Debug\PrimeFactorizationService.pdb
+E:\Prashant\My projects\HPC\SDK\HPC2012.SampleCode\HPC Pack 2012 SOA Tutorial Interactive Mode\C#\PrimeFactorizationService\obj\Debug\PrimeFactorizationService.csprojResolveAssemblyReference.cache
+E:\Prashant\My projects\HPC\SDK\HPC2012.SampleCode\HPC Pack 2012 SOA Tutorial Interactive Mode\C#\PrimeFactorizationService\obj\Debug\PrimeFactorizationService.dll
+E:\Prashant\My projects\HPC\SDK\HPC2012.SampleCode\HPC Pack 2012 SOA Tutorial Interactive Mode\C#\PrimeFactorizationService\obj\Debug\PrimeFactorizationService.pdb

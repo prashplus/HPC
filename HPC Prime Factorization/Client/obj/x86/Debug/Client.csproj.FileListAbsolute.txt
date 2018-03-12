@@ -1,0 +1,11 @@
+E:\Prashant\My projects\HPC\SDK\HPC2012.SampleCode\HPC Pack 2012 SOA Tutorial Interactive Mode\C#\Client\bin\Debug\Client.exe.config
+E:\Prashant\My projects\HPC\SDK\HPC2012.SampleCode\HPC Pack 2012 SOA Tutorial Interactive Mode\C#\Client\bin\Debug\Client.exe
+E:\Prashant\My projects\HPC\SDK\HPC2012.SampleCode\HPC Pack 2012 SOA Tutorial Interactive Mode\C#\Client\bin\Debug\Client.pdb
+E:\Prashant\My projects\HPC\SDK\HPC2012.SampleCode\HPC Pack 2012 SOA Tutorial Interactive Mode\C#\Client\bin\Debug\Microsoft.Hpc.Scheduler.Session.dll
+E:\Prashant\My projects\HPC\SDK\HPC2012.SampleCode\HPC Pack 2012 SOA Tutorial Interactive Mode\C#\Client\bin\Debug\Microsoft.Hpc.Scheduler.Properties.dll
+E:\Prashant\My projects\HPC\SDK\HPC2012.SampleCode\HPC Pack 2012 SOA Tutorial Interactive Mode\C#\Client\bin\Debug\Microsoft.Hpc.Scheduler.dll
+E:\Prashant\My projects\HPC\SDK\HPC2012.SampleCode\HPC Pack 2012 SOA Tutorial Interactive Mode\C#\Client\bin\Debug\Microsoft.Hpc.Scheduler.Properties.xml
+E:\Prashant\My projects\HPC\SDK\HPC2012.SampleCode\HPC Pack 2012 SOA Tutorial Interactive Mode\C#\Client\bin\Debug\Microsoft.Hpc.Scheduler.xml
+E:\Prashant\My projects\HPC\SDK\HPC2012.SampleCode\HPC Pack 2012 SOA Tutorial Interactive Mode\C#\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Prashant\My projects\HPC\SDK\HPC2012.SampleCode\HPC Pack 2012 SOA Tutorial Interactive Mode\C#\Client\obj\x86\Debug\Client.exe
+E:\Prashant\My projects\HPC\SDK\HPC2012.SampleCode\HPC Pack 2012 SOA Tutorial Interactive Mode\C#\Client\obj\x86\Debug\Client.pdb
