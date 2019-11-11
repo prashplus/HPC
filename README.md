@@ -18,9 +18,13 @@ For hosting I would suggest to go for Windows server 2012 R2 or 2016.
 
 Read the readme.txt inside the directory.
 
+## Presentation
+
+[Slides](https://prezi.com/p/g-ambk70owlo/hpc-cluster/)
 
 ## Author
 
 * **Prashant Piprotar** - - [PrashPlus](https://github.com/prashplus) Contact at: prashplus@gmail.com 
+* **Parth Shukla**
 and visit my blog for more Tech Stuff
-## http://www.prashplus.com
+### http://www.prashplus.com
