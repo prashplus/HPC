@@ -25,6 +25,7 @@ Read the readme.txt inside the directory.
 ## Author
 
 * **Prashant Piprotar** - - [PrashPlus](https://github.com/prashplus) Contact at: prashplus@gmail.com 
-* **Parth Shukla**
+* **Parth Shukla** - - [pasboy30[(https://github.com/pasboy30)
+
 and visit my blog for more Tech Stuff
 ### http://www.prashplus.com
