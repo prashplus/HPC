@@ -1,4 +1,7 @@
 # Mini HPC
+[![forthebadge](https://forthebadge.com/images/badges/just-plain-nasty.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
+
 
 This repository refers to my BTech 6th Sem project carried out at Charusat under Prof. Dr Ritesh Patel.
 
