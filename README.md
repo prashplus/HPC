@@ -1,4 +1,4 @@
-# HPC
+# Mini HPC
 
 This repository refers to my BTech 6th Sem project carried out at Charusat under Prof. Dr Ritesh Patel.
 
