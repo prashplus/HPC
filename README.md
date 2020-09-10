@@ -2,9 +2,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/just-plain-nasty.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
 
-
-This repository refers to my BTech 6th Sem project carried out at Charusat under Prof. Dr Ritesh Patel.
-
 The project aims at testing Microsoft HPC Pack 2012 and 2016 by creating cluster of 1 Master and 2 Slave nodes with a SOA service of prime factorization to demonstrate the working of the cluster.
 
 ## Getting Started
